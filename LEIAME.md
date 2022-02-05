@@ -1,7 +1,8 @@
 # aphorismus
 Uma criação coletiva para algo mais...
 
-|oposto|inteiro|
+| oposto| inteiro |
+|-------|---------|
 |inverso|contrário|
 
 ---
@@ -20,6 +21,9 @@ Uma criação coletiva para algo mais...
 
 1.0.1 - Se existisse não seria Deus.
 
+"Deus não faz parte do campo da existência 
+e nem do campo da não-existencia.(vide TAO)
+
 ---
 
 -1.0.2 - Mas não que Deus não exista.
@@ -27,7 +31,6 @@ Uma criação coletiva para algo mais...
 -1.0.3 - Só aquele que nada é tudo pode ser.
 
 "Deus é Transcendente(vide Gödel) e Deus é Imanente(vide Espinosa)".
-"Deus não faz parte do campo da existência e nem do campo da não-existencia.
 
 ---
 
