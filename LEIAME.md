@@ -5,8 +5,8 @@ Uma criação coletiva para algo mais...
 |-------|---------|
 |inverso|contrário|
 
-|        | - Qnt  |  + Qtd  | 
-|------- |--------|---------|
+||- Qnt|+ Qtd| 
+|:------:|:------:|:-------:|
 | + Qual |   -2   |   +2    |
 | - Qual |  -1/2  |   1/2   |
 
