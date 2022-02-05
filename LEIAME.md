@@ -2,13 +2,18 @@
 Uma criação coletiva para algo mais...
 
 | oposto| inteiro |
-|-------|---------|
-|inverso|contrário|
+|:-----:|:-------:|
+|contrário|inverso|
 
 ||- Qnt|+ Qtd| 
 |:------:|:------:|:-------:|
 | + Qual |   -2   |   +2    |
 | - Qual |  -1/2  |   1/2   |
+
+||- Qnt|+ Qtd| 
+|:------:|:------:|:-------:|
+| + Qual |-2.0|2.0|
+| - Qual |-1/2.0|1/2|
 
 ---
 
