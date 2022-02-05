@@ -1,6 +1,11 @@
 # aphorismus
 Uma criação coletiva para algo mais...
 
+|oposto|inteiro|
+|inverso|contrário|
+
+---
+
 0.0.0 - Existem Verdades e verdades.
 
 0.0.1 - Todas as Verdades falam por meio de paradoxos.
@@ -14,6 +19,8 @@ Uma criação coletiva para algo mais...
 1.0.0 - Deus só existe porque não existe.
 
 1.0.1 - Se existisse não seria Deus.
+
+---
 
 -1.0.2 - Mas não que Deus não exista.
 
