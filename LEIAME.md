@@ -5,6 +5,12 @@ Uma criação coletiva para algo mais...
 |-------|---------|
 |inverso|contrário|
 
+|        | - Qnt  |  + Qtd  | 
+|------- |--------|---------|
+| + Qual |   -2   |   +2    |
+| - Qual |  -1/2  |   1/2   |
+|------- |--------|---------|
+
 ---
 
 0.0.0 - Existem Verdades e verdades.
@@ -22,7 +28,7 @@ Uma criação coletiva para algo mais...
 1.0.1 - Se existisse não seria Deus.
 
 "Deus não faz parte do campo da existência 
-e nem do campo da não-existencia.(vide TAO)
+e nem do campo da não-existencia(vide TAO).
 
 ---
 
